@@ -1,0 +1,6 @@
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
+.env
+.DS_Store
