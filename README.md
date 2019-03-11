@@ -1,4 +1,4 @@
-# SoundMoneyCoin
+# Sound Money Coin
 
 <p align="center">
 	<img src="/static/soundmoneycoin.png" height="200px"/>
