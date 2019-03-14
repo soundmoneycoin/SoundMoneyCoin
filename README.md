@@ -10,7 +10,7 @@ Sound Money Coin (SOV coin) is a sound money and a secure store of value. It's a
 
 **If you understand the teachings of [Austrian Economics](https://mises.org/what-austrian-economics), logic will force you to conclude that SOV coin is the soundest of all moneys.**
 
-In contrast to competing SOVs, mining of SOV coins is not restricted to the confines of Chinese factories. Anyone in the world can mint SOV at the cost of an Ethereum transaction. Supply is capped at 21 million. New coins can be minted only once per block and the minter receives 0.005 SOV. Each time new SOV are minted, 0.0001 SOV go into a fund for further development of the Sound Money Coin ecosystem.
+In contrast to competing SOVs, mining of SOV coins is not restricted to the confines of Chinese factories. Anyone in the world can mint SOV at the cost of an Ethereum transaction. Supply is capped at 21 million. New coins can be minted only once per block and the minter receives 0.05 SOV. Each time new SOV are minted, 0.0001 SOV go into a fund for further development of the Sound Money Coin ecosystem.
 
 - [Mint Sound Money Coin here](http://mint.soundmoneycoin.io). Take part in [this bounty](https://explorer.bounties.network/bounty/2520) to build a better interface if you are so inclined.
 - [Sound Money Coin on Etherscan](https://etherscan.io/token/0x010589b7c33034b802f7dba2c88cc9cec0f46673)
